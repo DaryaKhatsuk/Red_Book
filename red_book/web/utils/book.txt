@@ -1,0 +1,202 @@
+1 Медицинская пиявка Hirudo medicinalis Медычная п’яўка II
+2 Длиннохвостый лимнокалянус Limnocalanus macrurus Доўгахвосты лiмнакалянус III
+3 Озерная эвритемора Eurytemora lacustris Азѐрная эўрытэмора III
+4 Реликтовая мизида Mysis relicta Loven Рэлiктавая мiзiда III
+5 Бокоплав Палласа Pallassiola quadrispinosa Бакаплаў Паласа III
+6 Родственная понтопорея Pontoporea affinis Роднасная пантапарэя III
+7 Широкопалый рак Astacus astacus Шыракапальцы рак III
+8 Паук сплавной большой Dolomedes plantarius Павук вялікі сплаўны III
+9 Броненосец Связанный Glomeris connexa Браненосец звязаны IV
+10 Поденка щитовидная Prosopistoma foliaceum Аўсянік шчытападобны II
+11 Булавобрюх кольчатый Cordulegaster boltonii Кардулегастр кольчаты II
+12 Дедка рогатый Ophiogomphus cecilia Дзедка рагаты IV
+13 Дозорщик-император Anax imperator Дазоршчык-імператар III
+14 Коромысло беловолосое Brachytron pratense Каромысел белавалосы III
+15 Коромысло зеленое Aeschna viridis Каромысел зялѐны III
+16 Лютка сибирская Sympecna paedisca Лютка сібірская III
+17 Нехаления красивая Nehalennia speciosa Нехаленія прыгожая II
+18 Стрелка зеленоватая Coenagrion armatum Стрэлка зеленаватая I
+19 Зеленчук непарный Chrysochraon dispar Зелянчук няпарны III
+20 Мечник короткокрылый Conocephalus dorsalis Мечнік караткакрылы IV
+21 Мечник обыкновенный Conocephalus discolor Мечнік звычайны IV
+22 Водомерка сфагновая Gerris sphagnetorum Вадамер сфагнавы III
+23 Борос Шнейдера Boros schneideri Борас Шнэйдэра III
+24 Бронзовка большая зеленая Potosia aeruginosa Бронзаўка вялікая зялѐная IV
+25 Бронзовка мраморная Liocola marmorata Бронзаўка мармуровая IV
+26 Бронзовка Фибера Protaecia fieberi Бронзаўка Фібера IV
+27 Восковик-отшельник Osmoderma coriarium Васкавік-пустэльнік III
+28 Восковик-пестряк изменчивый Gnorimus variabilis Васкавік-стракач зменлівы III
+29 Жужелица блестящая Carabus nitens Жужаль бліскучы III
+30 Жужелица замечательная Carabus excellens Жужаль цудоўны III
+31 Жужелица золотистоямчатая Carabus clathratus Жужаль залацістаямчаты III
+32 Жужелица Менетрие Carabus menetriesi Жужаль Ментрыѐ III
+33 Жужелица окаймленная Carabus marginalis Жужаль аблямаваны II
+34 Жужелица путаная Carabus intricatus Жужаль блытаны III
+35 Жужелица фиолетовая Carabus violaceus Жужаль фіялетавы IV
+36 Жужелица шагреневая Carabus coriaceus Жужаль шчыгрынавы IV
+37 Жук-олень Lucanus cervus Жук-алень II
+38 Ильник неизвестный Rhantus incognitos Глейнік невядомы III
+39 Красотел бронзовый Calosoma inquisitor Красацел бронзавы IV
+40 Пестряк зеленый Gnorimus nobilis Стракач зялѐны III
+41 Плавунец широчайший Dytiscus latissimus Плывунец найшырэйшы III
+42 Плоскотелка красная Cucujus cinnaberinus Пласкацел чырвоны IV
+43 Поводень двухполосный Graphoderus bilineatus Павадзень двухпалосны III
+44 Ризод желобчатый Rhysodes sulcatus Рызодэс лотакны II
+45 Рогачик скромный Ceruchus chrysomelinus Рагачык сціплы IV
+46 Слизнеед бороздчатый Chlaenius sulcicollis Слімажэр баразнаваты II
+47 Слизнеед ребристый Chlaenius costulatus Слімажэр рабрысты II
+48 Слизнеед четырехбороздчатый Chlaenius quadrisulcatus Слімажэр чатырохбаразнаваты I
+49 Стафилин волосатый Emus hirtus Стафілін валасаты IV
+50 Усач дубовый большой Cerambyx cerdo Вусач дубовы вялікі III
+51 Усач Келера Purpuricenus kaehleri Вусач Келера IV
+52 Усач косматогрудый Tragosoma depsarium Вусач калматагруды II
+53 Усач-плотник Ergater faber Вусач-цясляр IV
+54 Аполлон черный Parnassius mnemosine Апалон чорны III
+55 Бархатница ахине Lopinga achine Краявочка прыдарожная III
+56 Бархатница петербуржская Lasiommata petropolitana Краявочка пецярбургская I
+57 Бархатница ютта Oeneis jutta Сатыр тундравы IV
+58 Бражник прозерпина Proserpinus proserpina Бражнік празэрпіна II
+59 Голубянка Алексис Glaucopsyche alexis Блакітніца Алексіс III
+60 Голубянка Алькон Maculinea alcon Блакітніца Алькон III
+61 Голубянка донниковая Polyommatus dorylas Блакітніца баркунавая I
+62 Голубянка Телей Phengaris teleius Блакітніца Тэлей III
+63 Голубянка черноватая Phengaris nausithous Блакітніца чарнаватая III
+64 Голубянка эроидес Polyommatus eroides Блакітніца эроідэс I
+65 Дриада Minois dryas Матыль-дрыяда IV
+66 Зеринтия обыкновенная Zerynthia polyxena Зарынція звычайная I
+67 Желтушка ракитниковая Colias myrmidone Жаўтушка зяноўная IV
+68 Желтушка торфяниковая Colias palaeno Жаўтушка тарфянікавая IV
+69 Медведица Геба Ammobiota hebe Мядзведзіца Геба I
+70 Медведица Метельки Rhyparioides metelkana Мядзведзіца Мяцелькі I
+71 Медведица сельская Arctia villica Мядзведзіца вясковая II
+72 Медведица-хозяйка Pericallia matronula Мядзведзіца-гаспадыня IV
+73 Металловидка кровохлебковая Diachrysia zosimi Металавідка крывасмокавая III
+74 Многоглазка голубоватая Lycaena helle Мнагавочка блакітнаватая II
+75 Орденская лента розовая Catocala pacta Стужачніца ружовая IV
+76 Перламутровка альпийская Clossiana thore Перламутраўка альпійская I
+77 Перламутровка фрейя Clossiana freja Перламутраўка фрэя I
+78 Перламутровка фригга Clossiana frigga Перламутраўка фрыга I
+79 Пеструшка таволговая Neptis rivularis Стракатка вятроўнікавая III
+80 Пяденица красивая Chariaspilates formosaria Пядзенік прыгожы III
+81 Пяденица стрельчатая Gagiodes sagittata Пядзенік стрэлкавы II
+82 Сатир железный Hipparchia statilinus Сатыр жалезны IV
+83 Сенница луговая Coenonympha oedippus Сенніца лугавая III
+84 Совка мышастая Arytrura musculus Соўка мышастая II
+85 Чернушка эфиопка Erebia aethiops Чарнушка-эфіѐпка II
+86 Шашечница авриния Euphydryas aurinia Шашачніца аўрынія III
+87 Шашечница большая Euphydryas maturna Шашачніца вялікая IV
+88 Аноплиус сарматский Anoplius samariensis Анопліюс сармацкі III
+89 Парнопес крупный Parnopes grandior Парнопэс буйны III
+90 Пчела мохноногая серебристая Dasypoda argentata Пчала калашматая срабрыстая III
+91 Пчела-плотник обыкновенная Xylocopa valga Пчала-цясляр звычайная II
+92 Сколия-гигант Megascolia maculate Сколія-гігант III
+93 Сфекс погребальный Sphex funerarius Сфэкс пахавальны III
+94 Шмель моховой Bombus muscorum Чмель мохавы III
+95 Шмель-чесальщик Bombus distinguendus Чмель-часальшчык III
+96 Шмель Шрэнка Bombus schrenckii Чмель Шрэнка III
+97 Беззубка узкая Pseudanodonta complanata Бяззубка вузкая II
+98 Перловица толстая Unio crassus Перламутраўка тоўстая III
+99 Речная минога Lampetra fluviatilis Рачная мiнога I
+100 Стерлядь Acipenser ruthenus Сцерлядзь I
+101 Атлантический лосось Salmo salar Ласось I
+102 Европейский хариус Thymallus thymallus Лiпень II
+103 Кумжа Salmo trutta Кумжа I
+104 Ручьевая форель Salmo trutta morpha fario Стронга ручаѐвая II
+105 Европейская корюшка Osmerus eperlanus Стынка IV
+106 Озерный гольян Phoxinus percnurus Гальян азерны III
+107 Обыкновенный усач Barbus barbus Мiрон III
+108 Рыбец Vimba vimba Рыбец III
+109 Гребенчатый тритон Triturus cristatus Грабенчаты трытон IV
+110 Камышовая жаба Bufo calamita Чаротавая рапуха III
+111 Болотная черепаха Emys orbicularis Балотная чарапаха III
+112 Медянка Coronella austriaca Мядзянка III
+113 Белоглазая чернеть Aythya nyroca Белавокi нырок I
+114 Большой крохаль Mergus merganser Вялiкi савук III
+115 Гусь-пискулька Anser erythropus Гусь-пiскулька IV
+116 Длинноносый крохаль Mergus serrator Даўганосы савук II
+117 Луток Mergellus albellus Савук-луток I
+118 Шилохвость Anas acuta Качка-шылахвостка III
+119 Белая куропатка Lagopus lagopus Пардва I
+120 Чернозобая гагара Gavia arctica Чорнаваллѐвы гагач II
+121 Серощекая поганка Podiceps grisegena Шэрашчокая коўра IV
+122 Большая выпь Botaurus stellaris Чапля-бугай III
+123 Кваква Nycticorax nycticorax Чапля-кваква IV
+124 Малая выпь Ixobrychus minutus Чапля-лазянiк II
+125 Черный аист Ciconia nigra Чорны бусел III
+126 Беркут Aquila chrysaetos Арол-маркут I
+127 Большой подорлик Aquila clanga Вялiкi арлец I
+128 Змееяд Circaetus gallicus Арол-вужаед II
+129 Красный коршун Milvus milvus Чырвоны каршун III
+130 Малый подорлик Aquila pomarina Малы арлец III
+131 Орел-карлик Hieraaetus pennatus Арол-карлiк I
+132 Орлан-белохвост Haliaeetus albicilla Арлан-белахвост II
+133 Полевой лунь Circus cyaneus Палявы лунь III
+134 Скопа Pandion haliaetus Скапа II
+135 Черный коршун Milvus migrans Чорны каршун III
+136 Дербник Falco columbarius Сокал-дрымлюк III
+137 Кобчик Falco vespertinus Сокал-шулѐнак I
+138 Обыкновенная пустельга Falco tinnunculus Сокал-пустальга III
+139 Сапсан Falco peregrinus Сокал-падарожнiк I
+140 Чеглок Falco subbuteo Сокал-кабец IV
+141 Коростель Crex crex Драч III
+142 Малый погоныш Porzana parva Малы пагонiч IV
+143 Серый журавль Grus grus Шэры журавель III
+144 Авдотка Burhinus oedicnemus Палянiк I
+145 Большой веретенник Limosa limosa Вялiкi грыцук III
+146 Большой кроншнеп Numenius arquata Вялiкi кулѐн II
+147 Большой улит Tringa nebularia Кулiк-селянец III
+148 Галстучник Charadrius hiaticula Вялiкi зуѐк II
+149 Гаршнеп Lymnocryptes minimus Стучок IV
+150 Дупель Gallinago media Дубальт II
+151 Золотистая ржанка Pluvialis apricaria Залацiстая сеўка III
+152 Кулик-сорока Haematopus ostralegus Крывок III
+153 Малая крачка Sterna albifrons Малая крычка II
+154 Малая чайка Larus minutus Малая чайка III
+155 Мородунка Xenus cinereus Кулiк-марадунка III
+156 Поручейник Tringa stagnatilis Кулiк-паручайнiк III
+157 Сизая чайка Larus canus Шызая чайка IV
+158 Средний кроншнеп Numenius phaeopus Сярэднi кулѐн III
+159 Турухтан Philomachus pugnax Баталѐн III
+160 Болотная сова Asio flammeus Сава балотная IV
+161 Бородатая неясыть Strix nebulosa Барадатая кугакаўка II
+162 Воробьиный сыч Glaucidium passerinum Вераб’iны сычык IV
+163 Длиннохвостая неясыть Strix uralensis Даўгахвостая кугакаўка III
+164 Домовый сыч Athene noctua Сыч-сiпель III
+165 Сипуха Tyto alba Сiпуха II
+166 Сплюшка Otus scops Соўка-сплюшка IV
+167 Филин Bubo bubo Пугач II
+168 Золотистая щурка Merops apiaster Шчурка-пчалаедка III
+169 Обыкновенный зимородок Alcedo atthis Звычайны зiмародак III
+170 Сизоворонка Coracias garrulus Сiнi сiваграк I
+171 Белоспинный дятел Dendrocopos leucotos Беласпiнны дзяцел IV
+172 Зеленый дятел Picus viridis Зялѐная жаўна III
+173 Трехпалый дятел Picoides tridactylus Жоўтагаловы дзяцел IV
+174 Белая лазоревка Parus cyanus Белая сiнiца III
+175 Вертлявая камышевка Acrocephalus paludicola Вяртлявая чаротаўка I
+176 Мухоловка-белошейка Ficedula albicollis Валасянiца-белашыйка IV
+177 Полевой конек Anthus campestris Палявы свiрстун IV
+178 Просянка Miliaria calandra Гуменная стрынатка IV
+179 Садовая овсянка Emberiza hortulana Садовая стрынатка II
+180 Усатая синица Panurus biarmicus Вусатая сiнiца IV
+181 Хохлатый жаворонок Galerida cristata Жаўрук-смяцюх IV
+182 Чернолобый сорокопут Lanius minor Чарналобы грычун II
+183 Европейская широкоушка Barbastella barbastellus Еўрапейская шыракавушка II
+184 Малая вечерница Nyctalus leisleri Малая вячэрнiца III
+185 Ночница Брандта Myotis brandti Начнiца Брандта III
+186 Ночница Наттерера Myotis nattereri Начнiца Натэрэра III
+187 Прудовая ночница Myotis dasycneme Сажалкавая начнiца II
+188 Северный кожанок Eptesicus nilssoni Паўночны кажанок IV
+189 Серый ушан Plecotus austriacus Шэры вушан IV
+190 Усатая ночница Myotis mystacinus Вусатая начнiца III
+191 Барсук Meles meles Барсук II
+192 Бурый медведь Ursus arctos Буры мядзведзь I
+193 Горностай Mustela erminea Гарнастай II
+194 Европейская рысь Lynx lynx Еўрапейская рысь II
+195 Европейская норка Mustela lutreola Еўрапейская норка I
+196 Крапчатый суслик Spermophilus suslicus Рабы суслiк III
+197 Обыкновенная летяга Pteromys volans Звычайная палятуха III
+198 Обыкновенный хомяк Cricetus cricetus Звычайны хамяк III
+199 Орешниковая соня Muscardinus avellanarius Арэшнiкавая соня IV
+200 Садовая соня Eliomys quercinus Садовая соня III
+201 Соня-полчок Glis glis Соня-палчок III
+202 Европейский зубр Bison bonasus Еўрапейскi зубр III
